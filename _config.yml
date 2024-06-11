@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Roberto Marino Personal Page"
+title                    : "Roberto Marino website"
 title_separator          : "-"
 name                     : &name "Roberto Marino"
 description              : &description "personal description"
