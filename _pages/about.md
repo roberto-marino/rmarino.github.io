@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Roberto, a Research Fellow at University of Messina in the Future Computing Research Laboratory.
+I'm Roberto, a Research Fellow at University of Messina in the [Future Computing Research Laboratory](https://fcrlab.unime.it/).
 My research lies in the intersection of robotics, machine learning and distributed systems.
 
 Before that, I was a PhD student at the University of Genova supervised by Marco Baglietto. My PhD research was mostly on trajectory generation for Micro-Aerial Vehicles using Optimization and Discrete Mechanics modeling.
